@@ -1,7 +1,7 @@
 import java.util.*; 
 
-public futurecheckbook {
-    public static void Main(string(), args){
-        system.out.println("helll Future checkbook world"); 
+public class futurecheckbook {
+    public static void futurecheckbook(String[] args){
+        System.out.println("helll Future checkbook world"); 
     }
 }
